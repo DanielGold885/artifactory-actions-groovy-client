@@ -1,0 +1,8 @@
+
+{
+  "uri": "<artifactoryURL>/npm-local/text1.txt",
+  "downloadUri": "<artifactoryURL>/artifactory/npm-local/text1.txt",
+  "repo": "npm-local",
+  "path": "./text1.txt",
+  "createdBy": "admin"
+}
